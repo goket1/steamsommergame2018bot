@@ -1,0 +1,5 @@
+numpy
+Pillow
+PyInstaller
+pyscreenshot
+pywin32
