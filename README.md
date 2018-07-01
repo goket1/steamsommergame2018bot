@@ -8,8 +8,10 @@ WARNING, I am NOT responsible if you get BANNED for using this tool
 
 Feel free to copy, redesirubute, fork or what ever ya feel like.
 
-How to run:
-go to: https://github.com/goket1/steamsommergame2018bot/releases/latest
-and download the executable, and run it. The script will handle the rest
+How to:
+1.  go to: https://github.com/goket1/steamsommergame2018bot/releases/latest
+2.  Download the executable, and run it.
+3.  Make sure the screen that is listed is open on the sommer game, and that the page is scrolled up all the way
+4.  Enjoy
 
-Happy sommer...
+Happy sommer sale...
