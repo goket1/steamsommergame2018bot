@@ -14,4 +14,6 @@ How to:
 3.  Make sure the screen that is listed is open on the summer game, and that the page is scrolled up all the way
 4.  Enjoy
 
+![alt text](https://raw.githubusercontent.com/goket1/steamsommergame2018bot/master/screenshot.png)
+
 Happy summer sale...
